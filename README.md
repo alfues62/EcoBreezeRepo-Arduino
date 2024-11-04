@@ -16,3 +16,4 @@ Parte de Arduino para el Sprint0 del Proyecto de Biometría y Medio Ambiente del
     4. Subir el programa a la placa.
     
     5. Comprobar mediante una app externa (como nrfConnect) que los beacons se envian correctamente
+### Version Sprint 2
