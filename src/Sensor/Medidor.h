@@ -117,7 +117,7 @@ public:
     Serial.println(ppmCalibrado);
 
 
-    return 555;  // Devuelve el valor calibrado
+    return ppmCalibrado;  // Devuelve el valor calibrado
   } // fin de medirCO2()
 
   // .....................................................
